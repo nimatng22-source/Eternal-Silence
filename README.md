@@ -43,9 +43,8 @@ Eternal-Silence aims to:
 Humanitarian Resources Guide
 
 Eternal-Silence provides a bilingual guide to reliable humanitarian resources, civilian protection, emergency health information, and refugee support.
-
-- "راهنمای فارسی (Persian Guide)" (GUIDE_FA.md)
-- "English Guide" (GUIDE_EN.md)
+- [راهنمای فارسی (Persian Guide)](GUIDE_FA.md)
+- [English Guide](GUIDE_EN.md)
 
 These guides are informational drafts and do not replace official emergency, medical, or legal services.
 
