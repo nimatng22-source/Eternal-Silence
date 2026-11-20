@@ -40,6 +40,14 @@ Eternal-Silence aims to:
 | [GOVERNANCE.md](GOVERNANCE.md) | Decision-making, accountability, and continuity |
 | [LICENSE](LICENSE) | Terms for sharing and reusing project materials |
 | [SECURITY.md](SECURITY.md) | Security policy and vulnerability reporting |
+Humanitarian Resources Guide
+
+Eternal-Silence provides a bilingual guide to reliable humanitarian resources, civilian protection, emergency health information, and refugee support.
+
+- "راهنمای فارسی (Persian Guide)" (GUIDE_FA.md)
+- "English Guide" (GUIDE_EN.md)
+
+These guides are informational drafts and do not replace official emergency, medical, or legal services.
 
 ## How to Contribute
 
