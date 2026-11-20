@@ -48,6 +48,14 @@ Eternal-Silence provides a bilingual guide to reliable humanitarian resources, c
 
 These guides are informational drafts and do not replace official emergency, medical, or legal services.
 
+## Global Collaboration
+
+- [فراخوان همکاری فارسی](CALL_FOR_COLLABORATION_FA.md)
+- [English Collaboration Call](CALL_FOR_COLLABORATION_EN.md)
+
+## Country Information
+
+- [Country Index](COUNTRY_INDEX.md)
 ## How to Contribute
 
 Everyone who shares our principles can help.
