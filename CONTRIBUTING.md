@@ -1,5 +1,4 @@
-
-Contributing to Eternal-Silence
+# Contributing to Eternal-Silence
 
 Thank you for your interest in contributing to Eternal-Silence.
 
@@ -7,7 +6,7 @@ Eternal-Silence is a global initiative focused on peace, civilian protection, hu
 
 We welcome thoughtful contributions from people who share these principles.
 
-1. Our Values
+## 1. Our Values
 
 Every contribution should respect:
 
@@ -18,7 +17,7 @@ Every contribution should respect:
 - Transparency and accountability.
 - Responsible development and use of AI.
 
-2. Ways to Contribute
+## 2. Ways to Contribute
 
 You can support the project by:
 
@@ -32,7 +31,7 @@ You can support the project by:
 
 You do not need to be a programmer to contribute.
 
-3. Contribution Guidelines
+## 3. Contribution Guidelines
 
 Before submitting a contribution:
 
@@ -43,7 +42,7 @@ Before submitting a contribution:
 5. Respect the privacy and rights of others.
 6. Keep discussions constructive and respectful.
 
-4. Safety and Ethical Boundaries
+## 4. Safety and Ethical Boundaries
 
 Contributions must not:
 
@@ -54,7 +53,7 @@ Contributions must not:
 - Present unverified claims as established facts.
 - Encourage unsafe or irresponsible uses of AI.
 
-5. Reviewing Contributions
+## 5. Reviewing Contributions
 
 Contributions should be reviewed carefully before becoming part of the main project.
 
@@ -68,7 +67,7 @@ Reviews should consider:
 
 No contribution should be accepted automatically without appropriate review.
 
-6. Respectful Collaboration
+## 6. Respectful Collaboration
 
 We expect all contributors to communicate respectfully.
 
@@ -76,7 +75,7 @@ Different opinions are welcome when expressed constructively.
 
 Harassment, threats, discrimination, and deliberate misinformation have no place in this project.
 
-7. Transparency
+## 7. Transparency
 
 Important changes should be documented.
 
@@ -84,7 +83,7 @@ Contributors should explain what they changed and why.
 
 Project decisions should remain understandable to future contributors.
 
-8. Long-Term Commitment
+## 8. Long-Term Commitment
 
 Eternal-Silence is intended to continue beyond the involvement of any single person.
 
@@ -92,4 +91,4 @@ We encourage contributors to improve the project responsibly while preserving it
 
 Thank you for helping build a foundation for peace, human dignity, civilian protection, and responsible AI.
 
-Eternal-Silence — A mission for humanity and a responsibility for the future.
+**Eternal-Silence — A mission for humanity and a responsibility for the future.**
