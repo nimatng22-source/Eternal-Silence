@@ -38,7 +38,7 @@ Safety Principles
 
 - United Nations High Commissioner for Refugees: https://www.unhcr.org/
 - UNHCR HELP: https://help.unhcr.org/
-  How to Find Information for Each Country
+## How to Find Information for Each Country
 
 1. First, check the official website of the relevant organization.
 2. If the organization has a page dedicated to the country, use that page.
