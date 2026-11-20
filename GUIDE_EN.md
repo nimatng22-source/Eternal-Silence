@@ -17,6 +17,7 @@ Safety Principles
 - Personal and confidential information about vulnerable people must not be published.
 - The last review date must be recorded.
 - This guide does not replace emergency, medical, or legal services.
+- UNHCR services are free of charge. Do not pay unofficial intermediaries for UNHCR services. Check contact details and service information only through the official UNHCR website.
 
 1. Humanitarian Assistance
 
