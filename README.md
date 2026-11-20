@@ -1,5 +1,3 @@
-# Eternal-Silence
-A global initiative for peace, civilian protection, and responsible AI.
 Eternal-Silence
 
 A Global Initiative for Peace, Civilian Protection, and Responsible AI
@@ -41,6 +39,8 @@ Document| Description
 "ROADMAP.md" (ROADMAP.md)| Project development phases and future goals
 "CONTRIBUTING.md" (CONTRIBUTING.md)| How to participate and contribute
 "GOVERNANCE.md" (GOVERNANCE.md)| Decision-making, accountability, and continuity
+"LICENSE" (LICENSE)| Terms for sharing and reusing project materials
+"SECURITY.md" (SECURITY.md)| Security policy and vulnerability reporting
 
 How to Contribute
 
